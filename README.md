@@ -4,6 +4,8 @@ A simple static web application built to practice the use of props in React. Usi
 
 <img width="3024" height="1698" alt="image" src="https://github.com/user-attachments/assets/846ea3ac-8b72-493c-a64e-9009c9cab400" />
 
+# Lessons
+
 ## Why Reusability is important
 
 Reusability is important because it is more common to have reusable components that are driven by data than having lots of hardcoded data displayed on a screen. It makes more sense for scalability and to plan for future development and data.
