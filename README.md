@@ -1,10 +1,10 @@
-# My Travel Journal
+# My Travel Journal ✈️
 
 A simple static web page built to practice the use of props in React. Using props, I was able to display a basic travel journal using dynamic components that are imported from a database.
 
 <img width="3024" height="1698" alt="image" src="https://github.com/user-attachments/assets/846ea3ac-8b72-493c-a64e-9009c9cab400" />
 
-# React Concepts Learned
+# React Concepts Learned ⚛︎
 
 - Why Reusability is important
 
